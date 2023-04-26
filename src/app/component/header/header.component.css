@@ -1,0 +1,10 @@
+
+  div.header {
+    background-color: #76D6FF;
+    background: linear-gradient(#76D6FF, white);
+    width: 100%;
+    height: 140px;
+    border-radius: 10px;
+    position: relative;
+    color: #003366;
+  }
